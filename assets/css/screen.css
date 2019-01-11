@@ -69,7 +69,6 @@ ul.posts {
   ul.posts span {
     color: rgb(43, 43, 43);
     font-family: 'Roboto Mono', monospace;
-    font-size: 80%;
   }
 
 /*****************************************************************************/
@@ -80,7 +79,7 @@ ul.posts {
 
 .site {
   font-size: 125%;
-  text-align: justify;
+  text-align: left;
   width: 46em;
   margin: auto auto 2em auto;
   line-height: 1.5em;
