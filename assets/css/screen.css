@@ -15,7 +15,7 @@ html, body {
 }
 
 body {
-  background-color: rgb(245, 241, 248);
+  background-color: rgb(225, 207, 241);
   font: 15.34px Gentium Book Basic, serif;
   color: rgb(22, 22, 22);
   *font-size: small;
@@ -87,6 +87,7 @@ ul.posts {
 }
 
 .title {
+  background-color: rgb(115, 236, 152);
   color: rgb(0, 0, 0);
   font-weight: bold;
   margin-bottom: 2em;
