@@ -88,17 +88,15 @@ ul.posts {
 
 .title {
   width: 100vw;
-  height: 30px;
+  height: 20vh;
   position: relative;
   left: 50%;
   right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  margin: auto -50vw 2em -50vw;
   text-align: center;
   background-color: rgb(59, 50, 136);
   color: rgb(255, 255, 255);
   font-weight: bold;
-  margin-bottom: 2em;
 }
 
   .site .title a {
