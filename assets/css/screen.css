@@ -82,7 +82,7 @@ ul.posts {
   font-size: 125%;
   text-align: justify;
   width: 46em;
-  margin: 3em auto 2em auto;
+  /*margin: 3em auto 2em auto;*/
   line-height: 1.5em;
 }
 
@@ -93,6 +93,7 @@ ul.posts {
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
+  text-align: center;
   background-color: rgb(59, 50, 136);
   color: rgb(255, 255, 255);
   font-weight: bold;
