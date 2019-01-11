@@ -4,6 +4,16 @@
 /*
 /*****************************************************************************/
 
+/* Global Reset */
+
+* {
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
 body {
   background-color: rgb(225, 207, 241);
   font: 15.34px Gentium Book Basic, serif;
@@ -72,13 +82,13 @@ ul.posts {
   font-size: 125%;
   text-align: justify;
   width: 46em;
-  margin: 3em auto 2em auto;
+  margin: auto auto 2em auto;
   line-height: 1.5em;
 }
 
 .title {
   width: 100vw;
-  height: 20vh;
+  height: 2em;
   position: relative;
   left: 50%;
   right: 50%;
