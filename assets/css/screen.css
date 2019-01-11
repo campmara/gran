@@ -88,8 +88,8 @@ ul.posts {
 
 .title {
   width: 100vw;
-  height: 4em;
-  padding-top: 1em;
+  height: 6em;
+  padding-top: 2em;
   padding-bottom: auto;
   position: relative;
   left: 50%;
@@ -104,7 +104,7 @@ ul.posts {
   .site .title a {
     color: rgb(255, 255, 255);
     text-decoration: none;
-    font-size: 150%;
+    font-size: 175%;
   }
 
   .site .title a:hover {
@@ -131,6 +131,7 @@ ul.posts {
     border-top: 4px solid rgb(36, 36, 36);
     margin-top: 2em;
     overflow: hidden;
+    text-align: center;
   }
 
     .site .footer .contact {
