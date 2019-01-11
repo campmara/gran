@@ -195,7 +195,7 @@ ul.posts {
     padding: 1em 0;
   }
 
-  #post title {
+  #post.title {
     margin-bottom: 1em;
     font-size: 125%;
     text-align: center;
