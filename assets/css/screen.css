@@ -16,7 +16,7 @@ html, body {
 
 body {
   background-color: rgb(225, 207, 241);
-  font: 15.34px Gentium Book Basic, serif;
+  font: 15.34px 'Quattrocento Sans', sans-serif;
   color: rgb(22, 22, 22);
   *font-size: small;
   text-align: center;
@@ -68,7 +68,7 @@ ul.posts {
 
   ul.posts span {
     color: rgb(43, 43, 43);
-    font-family: Monaco, "Courier New", monospace;
+    font-family: 'Roboto Mono', monospace;
     font-size: 80%;
   }
 
