@@ -195,13 +195,13 @@ ul.posts {
     padding: 1em 0;
   }
 
-  #post.title {
-    margin-bottom: 1em;
-    font-size: 125%;
-    text-align: center;
-  }
+#posttitle p {
+  margin-bottom: 1em;
+  font-size: 125%;
+  text-align: center;
+}
 
-#wordcount p{
+#wordcount p {
   font-size: 70%;
   color: rgb(102, 102, 102);
   text-align: center;
