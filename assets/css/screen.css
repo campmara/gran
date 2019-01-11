@@ -87,14 +87,16 @@ ul.posts {
 }
 
 .title {
-  background-color: rgb(115, 236, 152);
-  color: rgb(0, 0, 0);
+  padding: 20px 10px;
+  width: 100%;
+  background-color: rgb(59, 50, 136);
+  color: rgb(255, 255, 255);
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 150%;
   }
