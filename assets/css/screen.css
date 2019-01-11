@@ -88,7 +88,9 @@ ul.posts {
 
 .title {
   width: 100vw;
-  height: 2em;
+  height: 4em;
+  padding-top: 1em;
+  padding-bottom: auto;
   position: relative;
   left: 50%;
   right: 50%;
