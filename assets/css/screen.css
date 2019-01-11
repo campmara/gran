@@ -71,6 +71,7 @@ ul.posts {
   ul.posts span {
     color: rgb(43, 43, 43);
     font-family: 'Roboto Mono', monospace;
+    font-size: 85%;
   }
 
 /*****************************************************************************/
