@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-bottom: 1em;
-  font-size: 125%;
+  font-size: 115%;
   text-align: center;
 }
 
@@ -193,6 +193,12 @@ ul.posts {
   #post img {
     max-width: 42em;
     padding: 1em 0;
+  }
+
+  #post title {
+    margin-bottom: 1em;
+    font-size: 125%;
+    text-align: center;
   }
 
 #wordcount p{
