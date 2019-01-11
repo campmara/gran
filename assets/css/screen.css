@@ -195,6 +195,12 @@ ul.posts {
     padding: 1em 0;
   }
 
+#wordcount p{
+  font-size: 70%;
+  color: rgb(102, 102, 102);
+  text-align: center;
+}
+
   /* terminal */
 
   #post pre.terminal {
