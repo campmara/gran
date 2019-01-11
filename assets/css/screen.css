@@ -4,16 +4,6 @@
 /*
 /*****************************************************************************/
 
-/* Global Reset */
-
-* {
-  padding: 0;
-}
-
-html, body {
-  height: 100%;
-}
-
 body {
   background-color: rgb(225, 207, 241);
   font: 15.34px Gentium Book Basic, serif;
