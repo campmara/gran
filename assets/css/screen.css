@@ -101,8 +101,7 @@ ul.posts {
   background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
   font-weight: bold;
-  border-bottom: 20px;
-  border-bottom-color: rgb(115, 83, 189);
+  border-bottom: 20px solid rgb(115, 83, 189);
 }
 
   .site .title a {
