@@ -15,9 +15,9 @@ html, body {
 }
 
 body {
-  background-color: rgb(232, 221, 241);
+  background-color: rgb(255, 255, 255);
   font: 15.34px 'Quattrocento Sans', sans-serif;
-  color: rgb(22, 22, 22);
+  color: rgb(0, 0, 0);
   *font-size: small;
   text-align: center;
 }
@@ -98,9 +98,11 @@ ul.posts {
   right: 50%;
   margin: auto -50vw 2em -50vw;
   text-align: center;
-  background-color: rgb(39, 69, 117);
+  background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
   font-weight: bold;
+  border-bottom: 2px;
+  border-bottom-color: rgb(115, 83, 189);
 }
 
   .site .title a {
