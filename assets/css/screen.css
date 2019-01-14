@@ -48,6 +48,12 @@ a:visited {
   color: rgb(58, 58, 58);
 }
 
+hr {
+  width: 60%;
+  border-top: 1px dotted;
+  border-radius: 5px;
+}
+
 table {
   font-size: inherit;
   font: 100%;
@@ -131,7 +137,7 @@ ul.posts {
   .site .footer {
     font-size: 80%;
     color: rgb(48, 48, 48);
-    border-top: 4px solid rgb(36, 36, 36);
+    border-top: 1px solid rgb(36, 36, 36);
     margin-top: 2em;
     overflow: hidden;
     text-align: center;
