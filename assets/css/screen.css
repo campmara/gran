@@ -100,7 +100,6 @@ ul.posts {
 .title {
   width: 100vw;
   height: 5em;
-  padding-top: 2em;
   padding-bottom: auto;
   position: relative;
   left: 50%;
@@ -114,7 +113,7 @@ ul.posts {
 }
 
 .title img {
-  height: 5em;
+  height: 4em;
   width: auto;
 }
 
