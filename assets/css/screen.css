@@ -49,11 +49,11 @@ a:visited {
 }
 
 hr {
-  width: 60%;
+  width: 25%;
   border-style: dotted;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border-width: 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-width: 3px;
   border-radius: 5px;
 }
 
