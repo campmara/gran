@@ -50,7 +50,8 @@ a:visited {
 
 hr {
   width: 60%;
-  border-top: 1px dotted;
+  border-style: dotted;
+  border-width: 1px;
   border-radius: 5px;
 }
 
