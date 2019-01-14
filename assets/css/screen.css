@@ -107,10 +107,15 @@ ul.posts {
   right: 50%;
   margin: auto -50vw 2em -50vw;
   text-align: center;
-  background-color: rgb(20, 20, 20);
-  color: rgb(243, 243, 243);
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-weight: bold;
   border-bottom: 5px solid rgb(115, 83, 189);
+}
+
+.title img {
+  height: 5em;
+  width: auto;
 }
 
   .site .title a {
