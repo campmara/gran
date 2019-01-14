@@ -53,8 +53,7 @@ hr {
   border-style: dotted;
   margin-top: 30px;
   margin-bottom: 30px;
-  border-width: 3px;
-  border-radius: 5px;
+  border-width: 1px;
 }
 
 table {
