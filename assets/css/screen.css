@@ -113,12 +113,16 @@ ul.posts {
   border-bottom: 5px solid rgb(115, 83, 189);
 }
 
+.title img {
+  height: 5em;
+  width: auto;
+  display: block;
+}
+
   .site .title a {
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 200%;
-    height: 5em;
-    width: auto;
   }
 
   .site .title a:hover {
