@@ -16,7 +16,7 @@ html, body {
 
 body {
   background-color: rgb(243, 243, 243);
-  font: 1.25vw 'Quattrocento Sans', sans-serif;
+  font: 16px 'Quattrocento Sans', sans-serif;
   color: rgb(20, 20, 20);
   *font-size: small;
   text-align: center;
@@ -34,6 +34,8 @@ h1 {
 
 p {
   margin: 1em 0;
+  font-size: 110%;
+  line-height: 1.1;
 }
 
 a {
