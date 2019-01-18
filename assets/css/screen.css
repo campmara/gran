@@ -115,8 +115,8 @@ ul.posts {
 }
 
 .title img {
-  height: 2.5em;
-  width: auto;
+  height: initial;
+  width: 8.5em;
 }
 
   .site .title a {
