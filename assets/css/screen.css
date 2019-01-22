@@ -114,8 +114,8 @@ ul.posts {
   border-bottom: 5px solid rgb(115, 83, 189);
 }
 
-.title svg {
-  height: initial;
+.title img {
+  height: 100%;
   width: 8.5em;
 }
 
