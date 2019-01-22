@@ -114,6 +114,12 @@ ul.posts {
   border-bottom: 5px solid rgb(115, 83, 189);
 }
 
+.title img {
+  height: initial;
+  width: 8.5em;
+  overflow: visible;
+}
+
   .site .title a {
     color: rgb(255, 255, 255);
     text-decoration: none;
